@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/adhkar-php-istighfar-wird-tracker",
+  "description": "Daily Wird, Sayyid Al-Istighfar & Salawat Streak Analytics Engine (متتبع الأوراد اليومية والاستغفار والصلاة على النبي)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
